@@ -1,0 +1,14 @@
+{
+    "version": "1.0",
+  "last_updated": "2025-09-18",
+  "presets": [
+        {
+        "name": "Fox News",
+        "category": "new",
+        "domains": ["foxnews.com", "foxnews.net", "foxnews.org", "video.foxnews.com"],
+        "auto_variants": ["www", "m", "video", "live", "api"],
+        "ipv6": true,
+        "comment": "General Fox News + common subdomains"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "version": "1.0",
+  "last_updated": "2025-09-18",
+  "presets": [
+        {
+        "name": "Pornhub",
+        "category": "adult",
+        "domains": ["pornhub.com", "pornhub.net", "pornhub.org", "phncdn.com"],
+        "auto_variants": ["www", "m", "de", "fr", "es", "it", "ca", "uk", "au", "nl", "jp", "ru", "br", "in", "video", "viewkey"],
+        "ipv6": true,
+        "comment": "General Pornhub + common subdomains"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+  "version": "1.0",
+  "last_updated": "2025-09-16",
+  "presets": [
+    {
+      "name": "YouTube",
+      "category": "social",
+      "domains": ["youtube.com", "youtu.be"],
+      "auto_variants": ["www", "m", "music", "studio", "gaming", "kids", "tv"],
+      "ipv6": true,
+      "comment": "General Youtube + common subdomains"
+    },
+    {
+        "name": "Youtube static/media/CDN",
+        "category": "social",
+        "domains": ["ytimg.com", "youtube-nocookie.com", "googlevideo.com", "ggpht.com"],
+        "auto_variants": ["www", "m", "i", "s", "video", "img", "yt3"],
+        "ipv6": true,
+        "comment": "Youtube static/media/CDN domains"
+    },
+    {
+        "name": "Twitch",
+        "category": "social",
+        "domains": ["twitch.tv", "twitch.com", "ttvnw.net"],
+        "auto_variants": ["www", "m", "clips", "api", "embed", "static", "live", "dashboard"],
+        "ipv6": true,
+        "comment": "General Twitch + common subdomains"
+    }, 
+    {
+        "name": "Kick",
+        "category": "social",
+        "domains": ["kick.com", "kick.tv"],
+        "auto_variants": ["www", "m", "embed", "static", "live", "dashboard"],
+        "ipv6": true,
+        "comment": "General Kick + common subdomains"
+    },
+    {
+        "name": "Netflix",
+        "category": "streaming",
+        "domains": ["netflix.com", "nflxext.com", "nflximg.net", "nflxvideo.net"],
+        "auto_variants": ["www", "m", "help", "media", "api", "secure", "video"],
+        "ipv6": true,
+        "comment": "General Netflix + common subdomains"
+    },
+    {
+        "name": "Hulu",
+        "category": "streaming",
+        "domains": ["hulu.com", "huluim.com", "huluad.com"],
+        "auto_variants": ["www", "m", "help", "media", "api", "secure", "video"],
+        "ipv6": true,
+        "comment": "General Hulu + common subdomains"
+    },
+    {
+        "name": "Disney+",
+        "category": "streaming",
+        "domains": ["disneyplus.com", "disney.com", "dssott.com"],
+        "auto_variants": ["www", "m", "help", "media", "api", "secure", "video"],
+        "ipv6": true,
+        "comment": "General Disney+ + common subdomains"
+    },
+    {
+        "name": "Amazon Prime Video",
+        "category": "streaming",
+        "domains": ["primevideo.com", "amazon.com", "amazonaws.com"],
+        "auto_variants": ["www", "m", "help", "media", "api", "secure", "video"],
+        "ipv6": true,
+        "comment": "General Amazon Prime Video + common subdomains"
+    },
+    {
+        "name": "HBO Max",
+        "category": "streaming",
+        "domains": ["hbomax.com", "hbo.com", "hbo.net"],
+        "auto_variants": ["www", "m", "help", "media", "api", "secure", "video"],
+        "ipv6": true,
+        "comment": "General HBO Max + common subdomains"
+    },
+    {
+        "name": "Crunchyroll",
+        "category": "streaming",
+        "domains": ["crunchyroll.com", "crunchyroll.org", "crunchyrollmedia.com"],
+        "auto_variants": ["www", "m", "help", "media", "api", "secure", "video"],
+        "ipv6": true,
+        "comment": "General Crunchyroll + common subdomains"
+    },
+    {
+        "name": "Paramount+",
+        "category": "streaming",
+        "domains": ["paramountplus.com", "paramount.com", "viacomcbs.com"],
+        "auto_variants": ["www", "m", "help", "media", "api", "secure", "video"],
+        "ipv6": true,
+        "comment": "General Paramount+ + common subdomains"
+    },
+    {
+        "name": "Peacock",
+        "category": "streaming",
+        "domains": ["peacocktv.com", "peacock.com", "nbcuni.com"],
+        "auto_variants": ["www", "m", "help", "media", "api", "secure", "video"],
+        "ipv6": true,
+        "comment": "General Peacock + common subdomains"
+    }
+  ]
+}

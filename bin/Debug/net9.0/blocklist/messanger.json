@@ -1,0 +1,54 @@
+{
+    "version": "1.0",
+    "last_updated": "2025-09-16",
+    "presets": [
+        {
+            "name": "Whatsapp",
+            "category": "messenger",   
+            "domains": ["whatsapp.com", "whatsapp.net", "whatsapp.biz"],
+            "auto_variants": ["www", "web", "api", "chat", "mm", "scontent", "mms", "v", "v.whatsapp", "v.whatsapp.net"],
+            "ipv6": true,
+            "comment": "General Whatsapp + common subdomains"
+        },
+        {
+            "name": "Telegram",
+            "category": "messenger",
+            "domains": ["telegram.org", "t.me", "telegram.me", "telegram.com", "telegram.dog"],
+            "auto_variants": ["www", "api", "core", "cdn", "web", "s"],
+            "ipv6": true,
+            "comment": "General Telegram + common subdomains"
+        },
+        {
+            "name": "Signal",
+            "category": "messenger",
+            "domains": ["signal.org", "signal.com"],
+            "auto_variants": ["www", "api", "cdn", "updates"],
+            "ipv6": true,
+            "comment": "General Signal + common subdomains"
+        },
+        {
+            "name": "Messenger (Facebook)",
+            "category": "messenger",
+            "domains": ["messenger.com", "fb.com", "facebook.com"],
+            "auto_variants": ["www", "m", "l", "l.facebook", "scontent.xx", "scontent.fsnc1-1.fna.fbcdn.net", "scontent.fsnc1-2.fna.fbcdn.net", "scontent.fsnc1-3.fna.fbcdn.net",  "scontent.fsnc1-4.fna.fbcdn.net"],
+            "ipv6": true,
+            "comment": "General Messenger + common subdomains"
+        },
+        {
+            "name": "Slack",
+            "category": "messenger",
+            "domains": ["slack.com", "slack-edge.com", "slack-msgs.com"],
+            "auto_variants": ["www", "api", "files", "hooks", "slack.com"],
+            "ipv6": true,
+            "comment": "General Slack + common subdomains"
+        },
+        {
+        "name": "Discord",
+        "category": "social",
+        "domains": ["discord.com", "discordapp.com", "discord.gg"],
+        "auto_variants": ["www", "canary", "ptb", "media", "cdn", "status", "support"],
+        "ipv6": true,
+        "comment": "General Discord + common subdomains"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "version": "1.0",
+  "last_updated": "2025-09-18",
+  "presets": [
+        {
+        "name": "Amaznon",
+        "category": "shopping",
+        "domains": ["amazon.com", "amazon.co.uk", "amazon.de", "amazon.ca", "amazon.in", "amazon.fr", "amazon.it", "amazon.es"],
+        "auto_variants": ["www", "smile", "m", "seller", "api", "aws", "s3", "dynamodb"],
+        "ipv6": true,
+        "comment": "General Amazon + common subdomains"
+        }
+    ]
+}

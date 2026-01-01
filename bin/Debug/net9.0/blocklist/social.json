@@ -1,0 +1,110 @@
+{
+  "version": "1.0",
+  "last_updated": "2025-09-16",
+  "presets": [
+    {
+      "name": "Facebook",
+      "category": "social",
+      "domains": ["facebook.com", "fb.com", "fbcdn.net"],
+      "auto_variants": ["www", "m", "business", "workplace", "messenger", "mobile", "static", "video", "l", "l.facebook", "lookaside", "static.xx", "scontent.xx"],
+      "ipv6": true,
+      "comment": "General Facebook + common subdomains"
+    },
+    {
+        "name": "Reddit",
+        "category": "social",
+        "domains": ["reddit.com", "redd.it", "redditmedia.com"],
+        "auto_variants": ["www", "old", "new", "np", "m", "i", "external-preview", "preview", "styles"],
+        "ipv6": true,
+        "comment": "General Reddit + common subdomains"
+    },
+    {
+        "name": "Instagram",
+        "category": "social",
+        "domains": ["instagram.com", "instagr.am", "cdninstagram.com"],
+        "auto_variants": ["www", "i", "s", "help", "business", "developers", "about","m", "mobile", "scontent"],
+        "ipv6": true,
+        "comment": "General Instagram + common subdomains"
+    },
+    {
+        "name": "Twitter",
+        "category": "social",
+        "domains": ["twitter.com", "t.co", "twimg.com", "x.com"],
+        "auto_variants": ["www", "mobile", "api", "video", "pbs", "abs", "help", "status", "x", "ton"],
+        "ipv6": true,
+        "comment": "General Twitter + common subdomains"
+    },
+    {
+        "name": "TikTok",
+        "category": "social",
+        "domains": ["tiktok.com", "tik-tok.com", "musical.ly"],
+        "auto_variants": ["www", "m", "vm", "p", "sf", "v", "api", "ib", "ibc"],
+        "ipv6": true,
+        "comment": "General TikTok + common subdomains"
+    },
+    {
+        "name": "Pinterest",
+        "category": "social",
+        "domains": ["pinterest.com", "pinimg.com"],
+        "auto_variants": ["www", "i", "media", "business", "developers", "s"],
+        "ipv6": true,
+        "comment": "General Pinterest + common subdomains"
+    },
+    {
+        "name": "Snapchat",
+        "category": "social",
+        "domains": ["snapchat.com", "sc-cdn.net", "snap.com"],
+        "auto_variants": ["www", "app", "kit", "business", "ads", "accounts", "help"],
+        "ipv6": true,
+        "comment": "General Snapchat + common subdomains"
+    },
+    {
+        "name": "Tumblr",
+        "category": "social",
+        "domains": ["tumblr.com", "t.umblr.com", "media.tumblr.com"],
+        "auto_variants": ["www", "m", "safe", "help", "assets", "img", "data"],
+        "ipv6": true,
+        "comment": "General Tumblr + common subdomains"
+    }, 
+    {
+        "name": "4chan",
+        "category": "social",
+        "domains": ["4chan.org", "4cdn.org"],
+        "auto_variants": ["a", "b", "c", "d", "e", "f", "g", "gif", "h", "hr", "k", "m", "o", "p", "r", "s", "t", "u", "v", "w", "wg", "i"],
+        "ipv6": true,
+        "comment": "General 4chan + common subdomains"
+    },
+    {
+        "name": "BlueSky", 
+        "category": "social",
+        "domains": ["blueskyweb.xyz", "bsky.app"],
+        "auto_variants": ["www", "staging", "dev", "api", "dl", "img", "media"],
+        "ipv6": true,
+        "comment": "General BlueSky + common subdomains"
+    }, 
+    {
+        "name": "Mastodon",
+        "category": "social",
+        "domains": ["mastodon.social", "joinmastodon.org"],
+        "auto_variants": ["www", "api", "media", "files", "cdn"],
+        "ipv6": true,
+        "comment": "General Mastodon + common subdomains"
+    },
+    {
+        "name": "LinkedIn",
+        "category": "social",
+        "domains": ["linkedin.com", "lnkd.in"],
+        "auto_variants": ["www", "m", "media", "business", "learning", "help", "ads"],
+        "ipv6": true,
+        "comment": "General LinkedIn + common subdomains"
+    },
+    {
+        "name": "MySpace",
+        "category": "social",
+        "domains": ["myspace.com", "myspacecdn.com"],
+        "auto_variants": ["www", "m", "static", "images", "api"],
+        "ipv6": true,
+        "comment": "General Myspace + common subdomains"
+    }
+  ]
+}

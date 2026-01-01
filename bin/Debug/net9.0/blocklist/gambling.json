@@ -1,0 +1,14 @@
+{
+    "version": "1.0",
+  "last_updated": "2025-09-18",
+  "presets": [
+        {
+        "name": "Lucky Rebel",
+        "category": "gambling",
+        "domains": ["luckyrebel.com", "luckyrebel.eu", "luckyrebel.co.uk"],
+        "auto_variants": ["www", "m", "api", "secure", "play"],
+        "ipv6": true,
+        "comment": "General Lucky Rebel + common subdomains"
+        }
+    ]
+}

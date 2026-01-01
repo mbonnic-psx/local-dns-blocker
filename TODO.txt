@@ -1,0 +1,16 @@
+
+
+Functionality:
+    1. Allow for turning on and off JSON list files
+    2. set path to real host files
+    3. Flush DNS
+    4. change the parsing so it fills it oput properly
+
+Terminal:
+    1. Make a nice looking Main menu terminal with Ascii
+    2. Have Spacing correct when using each command
+
+JSON:
+    1. Fill out Json with base websites 
+    2. Check in with auto variants
+    3. Check in with Domains

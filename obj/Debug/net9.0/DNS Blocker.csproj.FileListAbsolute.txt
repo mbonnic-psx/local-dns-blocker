@@ -1,0 +1,14 @@
+C:\Users\matth\OneDrive\Desktop\DNS Blocker\obj\Debug\net9.0\DNS Blocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\OneDrive\Desktop\DNS Blocker\obj\Debug\net9.0\DNS Blocker.AssemblyInfoInputs.cache
+C:\Users\matth\OneDrive\Desktop\DNS Blocker\obj\Debug\net9.0\DNS Blocker.AssemblyInfo.cs
+C:\Users\matth\OneDrive\Desktop\DNS Blocker\obj\Debug\net9.0\DNS Blocker.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Desktop\DNS Blocker\bin\Debug\net9.0\DNS Blocker.exe
+C:\Users\matth\OneDrive\Desktop\DNS Blocker\bin\Debug\net9.0\DNS Blocker.deps.json
+C:\Users\matth\OneDrive\Desktop\DNS Blocker\bin\Debug\net9.0\DNS Blocker.runtimeconfig.json
+C:\Users\matth\OneDrive\Desktop\DNS Blocker\bin\Debug\net9.0\DNS Blocker.dll
+C:\Users\matth\OneDrive\Desktop\DNS Blocker\bin\Debug\net9.0\DNS Blocker.pdb
+C:\Users\matth\OneDrive\Desktop\DNS Blocker\obj\Debug\net9.0\DNS Blocker.dll
+C:\Users\matth\OneDrive\Desktop\DNS Blocker\obj\Debug\net9.0\refint\DNS Blocker.dll
+C:\Users\matth\OneDrive\Desktop\DNS Blocker\obj\Debug\net9.0\DNS Blocker.pdb
+C:\Users\matth\OneDrive\Desktop\DNS Blocker\obj\Debug\net9.0\DNS Blocker.genruntimeconfig.cache
+C:\Users\matth\OneDrive\Desktop\DNS Blocker\obj\Debug\net9.0\ref\DNS Blocker.dll

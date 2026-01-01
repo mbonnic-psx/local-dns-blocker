@@ -1,0 +1,14 @@
+{
+    "version": "1.0",
+  "last_updated": "2025-09-18",
+  "presets": [
+        {
+        "name": "Cool Math Games",
+        "category": "gaming",
+        "domains": ["coolmathgames.com", "coolmath.com", "coolmath4kids.com"],
+        "auto_variants": ["www", "m", "play", "games", "math"],
+        "ipv6": true,
+        "comment": "General Cool Math Games + common subdomains"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "version": "1.0",
+  "last_updated": "2025-09-18",
+  "presets": [
+        {
+        "name": "ChatGPT",
+        "category": "ai",
+        "domains": ["chat.openai.com", "openai.com", "api.openai.com", "platform.openai.com"],
+        "auto_variants": ["www", "api", "platform", "help", "labs", "beta"],
+        "ipv6": true,
+        "comment": "General ChatGPT + common subdomains"
+        }
+    ]
+}
